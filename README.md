@@ -1,1 +1,1 @@
-# rfm_crg_combines_devamp
+NOTE: RFM CRG combine logics with DeVamp
